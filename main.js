@@ -104,5 +104,5 @@ function cargarPunto4()
         cell_6.innerHTML = datosObject.simpsons[i].enabled
         }  
                   
-    }
+    }    
 }
